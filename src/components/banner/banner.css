@@ -1,0 +1,84 @@
+.banner-div {
+    margin-top: 20px;
+    background-image: linear-gradient( to right, #96E9FB, #ABECD6);
+    min-height: 70vh;
+    border-radius: 25px;
+}
+
+.intro-text-div {
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.intro-content-div {
+    min-height: 300px;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.intro-year {
+    color: #2A7CC7;
+    font-weight: 700;
+}
+
+.intro-heading {
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.intro-para {
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0.2px;
+    line-height: 30px;
+}
+
+.shop-now-btn {
+    background-color: #23A6F0;
+    width: 160px;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 0;
+    font-weight: 500;
+    font-size: 21px;
+    color: #FFF;
+}
+
+.banner-girl-sec {
+    position: relative;
+    width: 100%;
+    height: 70vh;
+}
+
+.banner-little-circle {
+    height: 65px;
+    width: 65px;
+    background-color: #FFF;
+    border-radius: 50%;
+    position: absolute;
+    top: 0%;
+    left: 30%;
+}
+
+.banner-big-circle {
+    height: 400px;
+    width: 400px;
+    background-color: #FFF;
+    border-radius: 50%;
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    z-index: 0;
+}
+
+.banner-girl {
+    width: 90%;
+    height: 100%;
+    position: absolute;
+    right: -10%;
+}

@@ -1,0 +1,14 @@
+.product-section {
+    margin: 40px 0;
+}
+
+.product-container {
+    margin-top: 20px;
+    height: 500px;
+    align-items: stretch;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+}

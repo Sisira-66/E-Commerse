@@ -1,0 +1,10 @@
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+.social-icon-div {
+    float: right;
+    color: #23a6f0;
+    font-size: 20px;
+}

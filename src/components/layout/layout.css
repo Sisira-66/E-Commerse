@@ -1,0 +1,43 @@
+.main-nav {
+    height: 60px;
+    width: 100%;
+}
+
+.logo {
+    margin: 10px 0 0 25px;
+}
+
+.logo h1 {
+    font-size: 30px;
+}
+
+.logo, .website-nav {
+    float: left;
+}
+
+.functional-nav {
+    float: right;
+    margin-right: 25px;
+    color: #23A6F0;
+}
+
+.website-nav, .functional-nav {
+    margin-top: 15px;
+    font-weight: 500;
+}
+
+.website-nav ul, .functional-nav ul {
+    list-style: none;
+}
+
+.website-nav li, .functional-nav li {
+    display: inline-block;
+    margin: 0 10px 0 10px;
+}
+
+
+
+
+
+
+
